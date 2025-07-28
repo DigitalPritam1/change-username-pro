@@ -84,7 +84,7 @@ Crafted by [Pritam Sonone](https://github.com/DigitalPritam1)
 ## 💸 Support & Donations
 
 If this plugin helped you, feel free to support development:  
-[☕ Buy me a coffee](https://www.buymeacoffee.com/pritamsonone)
+[☕ Buy me a coffee](https://www.buymeacoffee.com/digitalpritam)
 
 ---
 
