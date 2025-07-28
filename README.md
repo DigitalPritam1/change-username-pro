@@ -74,7 +74,7 @@
 ## 👨‍💻 Developer
 
 Crafted by [Pritam Sonone](https://github.com/DigitalPritam1)  
-🔗 [WordPress Profile](https://profiles.wordpress.org/digitalpritam1)  
+🔗 [WordPress Profile](https://profiles.wordpress.org/digitalpritam)  
 🌐 [Website](https://www.digitalpritam.in)  
 🎥 [YouTube – Digital Pritam](https://www.youtube.com/@DigitalPritam)  
 👨‍🌾 [Amhi Kastkar](https://www.youtube.com/@AmhiKastkar)
