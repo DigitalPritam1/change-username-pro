@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SmartUsername – Secure Admin Login Renamer & Username Editor Tool 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-08-17 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Change Username"
+msgstr ""
+
+msgid "Current Username"
+msgstr ""
+
+msgid "New Username"
+msgstr ""
+
+msgid "Change Username"
+msgstr ""
+
+msgid "The new username is already taken."
+msgstr ""
+
+msgid "Username changed successfully."
+msgstr ""
+
+msgid "Username not found."
+msgstr ""
