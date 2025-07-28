@@ -1,31 +1,3 @@
-<p align="center">
-  <a href="https://paypal.me/amhikastkar" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge" alt="Donate via PayPal" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DigitalPritam1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/digitalpritam" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/digitalpritam/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/digitalpritam" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@digitalpritam" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://profiles.wordpress.org/digitalpritam/" target="_blank">
-    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white" alt="WordPress Profile" />
-  </a>
-</p>
-
-
 # SmartUsername – Secure & Simple Username Changer for WordPress 🔐
 
 ![SmartUsername Banner](https://raw.githubusercontent.com/DigitalPritam1/smartusername/main/assets/banner-1544x500.png)
@@ -124,3 +96,30 @@ SmartUsername is open-sourced software licensed under the [GPLv2 or later](LICEN
 
 > Plugin Slug: `smartusername`  
 > Tags: username, change username, user management, admin tools, security
+
+<p align="center">
+  <a href="https://paypal.me/amhikastkar" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge" alt="Donate via PayPal" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DigitalPritam1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/digitalpritam" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/digitalpritam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/digitalpritam" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@digitalpritam" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://profiles.wordpress.org/digitalpritam/" target="_blank">
+    <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white" alt="WordPress Profile" />
+  </a>
+</p>
